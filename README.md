@@ -7,4 +7,4 @@ The sample data file used in this question is downloaded from (https://www.opens
 CharName: The name of the character in the play.
 PlainText: The dialogue said by the respective character.
 
-### Note: We only use Python built-in functions or standard modules in this project.
+Note: We only use Python built-in functions or standard modules in this project.
